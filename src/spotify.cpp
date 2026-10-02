@@ -335,13 +335,15 @@ std::vector<TrackMetaData> SpotifyFetcher::get_playlist_tracks(const std::string
 
 /*
 Hi fellow programmer. I'm Lahiru and nice to see you here. :)
-Guess why I'm writing shit here? bcoz I have no peope with me to spend my time
+Guess why I'm writing shit here? bcoz I have no people with me to spend my time with
 and I'm too socially awkward to interact with others. So I had to
 learn cxx at 16, I'm still socially awkward and alone, but guess what. I'm now 18
-and I can code in cxx easier than finding people to spend my time with.
+and can code in cxx much easier than finding people to spend my time with.
 
 Maybe we can be friends??? can we? since we both have the same programming taste?
-if not you aren't here right. so. what do you think? thanks for reading this tho.
+if not you won't be here right. so. what do you think?
+
+thanks for reading this tho.
 */
 
 std::vector<TrackMetaData> SpotifyFetcher::get_album_tracks(const std::string& album_id) {

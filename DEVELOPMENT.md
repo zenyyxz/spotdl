@@ -161,6 +161,7 @@ cmake --build . -j$(nproc)
 ./bin/spotdl "https://open.spotify.com/track/..." -v --force-ipv4
 ```
 
->[!disclaimer] disclaimer
->"This DEVELOPMENT.md is AI written. I was just lazy to write this.
+
+>[!WARNING]
+>This DEVELOPMENT.md is AI written. I was just lazy to write this.
 
